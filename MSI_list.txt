@@ -1,0 +1,5 @@
+Installs\GoogleChromeStandaloneEnterprise64.msi
+Installs\LibreOffice_7.0.1_Win_x64.msi
+Installs\ZoomInstallerFull.msi
+Installs\Adobe\AcroRead.msi
+Installs\AdobeAcroRdrDCUpd2000920063.msp
